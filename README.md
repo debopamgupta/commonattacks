@@ -21,3 +21,9 @@ Link - https://tryhackme.com/room/commonattacks
 > 13th February, 2022
 
 [Malware and Ransomware](./MalwareAndRansomware.md)
+
+## Task 4 Passwords And Authentication
+
+> 13th February, 2022
+
+[Passwords and Authentication](./PasswordsAndAuthentication.md)
