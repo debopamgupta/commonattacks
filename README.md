@@ -15,3 +15,9 @@ Link - https://tryhackme.com/room/commonattacks
 > 11th February, 2022
 
 [Phishing](./Phishing.md)
+
+## Task 3 Malware and Ransomware
+
+> 13th February, 2022
+
+[Malware and Ransomware](./MalwareAndRansomware.md)
