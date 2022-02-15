@@ -33,3 +33,9 @@ Link - https://tryhackme.com/room/commonattacks
 > 14th February, 2022
 
 [2FA](./2FA.md)
+
+## Task 6 Public Network Safety
+
+> 14th February, 2022
+
+[Public Network Safety](./PublicNetworkSafety)
